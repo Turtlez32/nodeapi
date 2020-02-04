@@ -1,0 +1,7 @@
+{
+    "prettier.trailingComma": "es5",
+    "editor.fontFamily": "Iosevka",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "editor.fontSize": 18
+}
